@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0aa7e42-23eb-4b28-ae8b-5ee18d879983" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/petclinic_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/petclinic_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/mouctar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_200.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_5_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_enterprise_cdi_api_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_jws_jsr181_api_1_0_MR1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_2_14_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_jcip_jcip_annotations_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nl_jqno_equalsverifier_equalsverifier_1_7_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jta_1_1_spec_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_beryx_awt_color_factory_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_beryx_text_io_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_jaxrs_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jackson_jackson_xc_1_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_20_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_resteasy_resteasy_jackson_provider_3_1_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_resteasy_resteasy_jaxrs_3_1_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_resteasy_resteasy_jaxrs_services_3_1_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_annotation_jboss_annotations_api_1_2_spec_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_batch_jboss_batch_api_1_0_spec_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_ejb_jboss_ejb_api_3_2_spec_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_el_jboss_el_api_3_0_spec_1_0_7_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_enterprise_concurrent_jboss_concurrency_api_1_0_spec_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_faces_jboss_jsf_api_2_2_spec_2_2_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_interceptor_jboss_interceptors_api_1_2_spec_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_jms_jboss_jms_api_2_0_spec_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_json_jboss_json_api_1_0_spec_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_management_j2ee_jboss_j2eemgmt_api_1_1_spec_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_resource_jboss_connector_api_1_7_spec_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_rmi_jboss_rmi_api_1_0_spec_1_0_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_security_auth_message_jboss_jaspi_api_1_1_spec_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_security_jacc_jboss_jacc_api_1_5_spec_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_servlet_jboss_servlet_api_3_1_spec_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_2_spec_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_websocket_jboss_websocket_api_1_1_spec_1_1_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_ws_rs_jboss_jaxrs_api_2_0_spec_1_0_1_Beta1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_xml_bind_jboss_jaxb_api_2_2_spec_1_0_4_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_xml_soap_jboss_saaj_api_1_3_spec_1_0_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_xml_ws_jboss_jaxws_api_2_2_spec_2_0_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petclinic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/WEB-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/client/H2Viewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/client/H2Viewer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/client/JPAMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/client/JPAMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/client/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/client/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/model/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/model/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/model/BaseEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/model/BaseEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/model/NamedEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/model/NamedEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/model/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/model/Owner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/model/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/model/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/model/PetType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/model/PetType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/model/Vet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/model/Vet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/model/Visit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/model/Visit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/service/DaoDelegate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/service/DaoDelegate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/service/EntityDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/service/EntityDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/service/MemoryDatastoreDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/service/MemoryDataStoreDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/service/VetDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upec/m2/petclinic/service/VetDao.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XTzJnABD7hXiZX0Zr87FYXeW75" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/WEB-INF" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/WEB-INF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.JPAMain">
+    <configuration name="H2Viewer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.upec.m2.petclinic.client.H2Viewer" />
+      <module name="petclinic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.upec.m2.petclinic.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JPAMain" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.upec.m2.petclinic.client.JPAMain" />
+      <module name="petclinic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.upec.m2.petclinic.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.upec.m2.petclinic.client.Main" />
+      <module name="petclinic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.upec.m2.petclinic.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.H2Viewer" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0aa7e42-23eb-4b28-ae8b-5ee18d879983" name="Default Changelist" comment="" />
+      <created>1581084803166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581084803166</updated>
+      <workItem from="1581084810283" duration="6224000" />
+      <workItem from="1581091333359" duration="511000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="99" key="#SQL_Dialects" timestamp="1581084904625">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="320" y="99" key="#SQL_Dialects/0.23.1440.821@0.23.1440.821" timestamp="1581084904625" />
+    <state x="320" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581086159547">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1581086159547" />
+    <state x="320" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.821@0.23.1440.821" timestamp="1581085004336" />
+    <state width="1398" height="402" key="GridCell.Tab.0.bottom" timestamp="1581091810405">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="402" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581091810405" />
+    <state width="1398" height="402" key="GridCell.Tab.0.center" timestamp="1581091810403">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="402" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581091810403" />
+    <state width="1398" height="402" key="GridCell.Tab.0.left" timestamp="1581091810401">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="402" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581091810401" />
+    <state width="1398" height="402" key="GridCell.Tab.0.right" timestamp="1581091810404">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="402" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581091810404" />
+    <state x="385" y="159" width="670" height="742" key="search.everywhere.popup" timestamp="1581088129676">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="159" width="670" height="742" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1581088129676" />
+    <state x="385" y="168" width="670" height="676" key="search.everywhere.popup/0.23.1440.821@0.23.1440.821" timestamp="1581085061498" />
+  </component>
+</project>
